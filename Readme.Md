@@ -17,7 +17,6 @@ An automated workflow that converts meeting transcripts into professional propos
 - Shows the agent configuration interface
 - Displays available templates and tools
 
-![1.](https://github.com/Chakri1407/Multichain_Launchpad/blob/master/ss/HomePage.png)
 ![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20181250.png)
 
 1. **Stripe Integration Flow** 
@@ -27,7 +26,7 @@ An automated workflow that converts meeting transcripts into professional propos
     - Invoice creation and finalization
     - Webhook response handling
     
-    ![Screenshot 2025-02-14 180122.png](attachment:6e13ac16-103a-4daa-9683-bd2d038a6307:Screenshot_2025-02-14_180122.png)
+![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20180122.png)
     
 2. [**Make.com](http://make.com/) Workflow** (Image 3)
     - Complete integration flow showing:
@@ -38,7 +37,7 @@ An automated workflow that converts meeting transcripts into professional propos
         - Tools and text processing
         - Final Relevance AI messaging
 
-![Screenshot 2025-02-14 175700.png](attachment:190914d7-b387-4e41-bcef-1df2c0b7f7c9:Screenshot_2025-02-14_175700.png)
+![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20175700.png)
 
 ## Workflow Steps
 
@@ -64,7 +63,7 @@ An automated workflow that converts meeting transcripts into professional propos
 
 ### **Relevance AI / Transcription Agent working**
 
-![Screenshot 2025-02-14 193728.png](attachment:25ab2733-7700-4338-841e-cb96bbed2dda:Screenshot_2025-02-14_193728.png)
+![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20193728.png)
 
 ### 4. Document Generation
 
@@ -90,7 +89,7 @@ An automated workflow that converts meeting transcripts into professional propos
 
 ### Email Confirmation
 
-![Screenshot 2025-02-14 193711.png](attachment:d010efc3-5c50-4b38-8424-f5a90a385884:Screenshot_2025-02-14_193711.png)
+![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20193711.png)
 
 ## Integration Points
 
