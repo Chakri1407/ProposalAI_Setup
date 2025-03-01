@@ -17,7 +17,8 @@ An automated workflow that converts meeting transcripts into professional propos
 - Shows the agent configuration interface
 - Displays available templates and tools
 
-![https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20181250.png)
+![1.](https://github.com/Chakri1407/Multichain_Launchpad/blob/master/ss/HomePage.png)
+![](https://github.com/Chakri1407/ProposalAI_Setup/blob/master/ss/Screenshot%202025-02-14%20181250.png)
 
 1. **Stripe Integration Flow** 
     - Webhook initialization
